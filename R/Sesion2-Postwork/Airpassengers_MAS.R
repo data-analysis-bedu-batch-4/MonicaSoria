@@ -1,7 +1,7 @@
 #Open dplyr
 library(dplyr)
 
-#How is Air Passengers coposed 
+#How is Air Passengers composed 
 str(AirPassengers)
 
 #View original table 
